@@ -10,7 +10,7 @@
 
   
  <br> 
-Υλικά που χρησιμοποιήθηκαν:<br>
+<b>Υλικά που χρησιμοποιήθηκαν:</b><br>
 Raspberry Pi 5 + RasPi Camera module<br>
 Arduino UNO<br>
 Servo motor<br>
